@@ -1,0 +1,15 @@
+nav#landmarks {
+    display:none;
+}
+
+nav#page-list {
+    display:none;
+}
+
+ul {
+    list-style-type: square;
+}
+ol {
+	 list-style-type: "1";
+}
+
